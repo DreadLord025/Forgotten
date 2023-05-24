@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/StartScene.unity
+    guid: 3fc8acdd13e6c734bafef6554d6fdbcd
+  - enabled: 1
+    path: Assets/Scenes/SearchLists.unity
+    guid: 245e5a428e8c18c448972f0aa4250141
+  - enabled: 1
+    path: Assets/Scenes/HuntAwake.unity
+    guid: c201a3d577a28ec4ba33f8b691cf666e
+  m_configObjects:
+    com.unity.adaptiveperformance.loader_settings: {fileID: 11400000, guid: 5a4037d291c202e48a4c8cb737d2708a, type: 2}
+    com.unity.adaptiveperformance.samsung.android.provider_settings: {fileID: 11400000, guid: b9a17a8cae17c784d9ec93b0792b49e7, type: 2}
+    com.unity.adaptiveperformance.simulator.provider_settings: {fileID: 11400000, guid: 6a4a01fa8bbf8744b860d33f71635c16, type: 2}
+    com.unity.input.settings: {fileID: 11400000, guid: e5ff1559be151f44985b49bf12d64b97, type: 2}
